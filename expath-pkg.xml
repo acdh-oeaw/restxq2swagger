@@ -1,0 +1,1 @@
+<package xmlns="http://expath.org/ns/pkg" name="http://acdh.oeaw.ac.at/restxq2swagger" abbrev="rxq2json" version="0.1" spec="1.0"><title>RestXQ 2 JSON Mapper Library</title><dependency package="http://exist-db.org/apps/shared"/></package>

@@ -1,0 +1,1 @@
+<meta xmlns="http://exist-db.org/xquery/repo"><description>A Xquery module providing a swagger serilization for RestXQ annotations.</description><author>Daniel Schopper</author><website/><status>alpha</status><license>GNU-LGPL</license><copyright>true</copyright><type>library</type><target>rxq2js</target><prepare>pre-install.xql</prepare><finish/></meta>
